@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
+🌱 I’m a Full stack developer with a masters degree in Computer science. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 
